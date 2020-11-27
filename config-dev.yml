@@ -1,2 +1,2 @@
 config:
-    info=config info for dev(dev-yml)
+    info: config info for dev(dev-yml)
